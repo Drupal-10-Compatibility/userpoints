@@ -115,7 +115,8 @@
         },
         "patches": {
             "drupal/userpoints": {
-                "Drupal 10 Compatibility for User Points": "https://www.drupal.org/files/issues/2022-10-09/userpoints-n3314326-6.patch"
+                "Drupal 10 Compatibility for User Points": "https://www.drupal.org/files/issues/2022-10-09/userpoints-n3314326-6.patch",
+                "Switch tests to use Stable9 theme": "patches/switch-tests-to-stable9-theme.patch"
             }
         }
     },

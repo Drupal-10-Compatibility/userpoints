@@ -1,0 +1,13 @@
+diff --git a/tests/src/Functional/UserpointsTest.php b/tests/src/Functional/UserpointsTest.php
+index c9edf51..f093604 100644
+--- a/tests/src/Functional/UserpointsTest.php
++++ b/tests/src/Functional/UserpointsTest.php
+@@ -13,7 +13,7 @@ class UserpointsTest extends BrowserTestBase {
+   /**
+    * {@inheritdoc}
+    */
+-  protected $defaultTheme = 'stable';
++  protected $defaultTheme = 'stable9';
+ 
+   /**
+    * Modules to install.
